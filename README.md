@@ -10,6 +10,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.
 
+[qllm](https://github.com/quantalogic/qllm) - QLLM (QuantaLogic LLM) is a powerful and flexible Command Line Interface (CLI) for interacting with multiple Large Language Model (LLM) providers.
+
 ## Local LLM Model Management
 
 [ollama](https://github.com/ollama/ollama) - Get up and running with large language models. Basically Docker for running OpenSource LLMs.
@@ -17,6 +19,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 ## Prompt Generation
 
 [code2prompt](https://github.com/mufeedvh/code2prompt?tab=readme-ov-file) - code2prompt is a command-line tool (CLI) that converts your codebase into a single LLM prompt with a source tree, prompt templating, and token counting.
+
+[code2prompt (Python)](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that generates comprehensive prompts from codebases, designed to streamline interactions between developers and Large Language Models (LLMs) for code analysis, documentation, and improvement tasks.
 
 ## Complementing CLI Utilities
 

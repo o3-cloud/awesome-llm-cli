@@ -12,6 +12,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 [qllm](https://github.com/quantalogic/qllm) - QLLM (QuantaLogic LLM) is a powerful and flexible Command Line Interface (CLI) for interacting with multiple Large Language Model (LLM) providers.
 
+[aider](https://github.com/paul-gauthier/aider) - Aider lets you pair program with LLMs, to edit code in your local git repository. Start a new project or work with an existing git repo.
+
 ## Local LLM Model Management
 
 [ollama](https://github.com/ollama/ollama) - Get up and running with large language models. Basically Docker for running OpenSource LLMs.

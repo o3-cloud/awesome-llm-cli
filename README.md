@@ -14,6 +14,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 [aider](https://github.com/paul-gauthier/aider) - Aider lets you pair program with LLMs, to edit code in your local git repository. Start a new project or work with an existing git repo.
 
+[tlm](https://github.com/yusufcanb/tlm) - tlm is your CLI companion which requires nothing except your workstation. It uses most efficient and powerful CodeLLaMa in your local environment to provide you the best possible command line suggestions.
+
 ## Local LLM Model Management
 
 [ollama](https://github.com/ollama/ollama) - Get up and running with large language models. Basically Docker for running OpenSource LLMs.

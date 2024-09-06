@@ -4,6 +4,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 ## LLM CLI Utilities
 
+[fabric](https://github.com/danielmiessler/fabric) - An open-source framework for augmenting humans using AI. Fabric breaks down problems into individual pieces and then apply AI to them one at a time.
+
 [llm](https://github.com/simonw/llm) - A CLI utility and Python library for interacting with Large Language Models, both via remote APIs and models that can be installed and run on your own machine.
 
 [cllm](https://github.com/o3-cloud/cllm) - Command Line LLM (cllm) Toolkit is a command line tool for interfacing with LLM models. It is designed to be a simple and easy to use tool for generating text from a prompts. It includes a suite of tools for interfacing with cllm output to build more complex prompt chaining processes.

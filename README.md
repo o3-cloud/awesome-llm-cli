@@ -16,6 +16,10 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 [aider](https://github.com/paul-gauthier/aider) - Aider lets you pair program with LLMs, to edit code in your local git repository. Start a new project or work with an existing git repo.
 
+[claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands.
+
+[codex](https://github.com/openai/codex) - OpenAI Codex CLI is a lightweight coding agent that runs in your terminal. It provides chat-driven development that understands and executes your repo with full auto-approval capabilities while running safely in a sandbox.
+
 [tlm](https://github.com/yusufcanb/tlm) - tlm is your CLI companion which requires nothing except your workstation. It uses most efficient and powerful CodeLLaMa in your local environment to provide you the best possible command line suggestions.
 
 [sgpt](https://github.com/tbckr/sgpt) - A powerful command-line interface (CLI) tool designed for seamless interaction with OpenAI models directly from your terminal.

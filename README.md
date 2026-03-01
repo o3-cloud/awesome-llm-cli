@@ -20,6 +20,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 [sgpt](https://github.com/tbckr/sgpt) - A powerful command-line interface (CLI) tool designed for seamless interaction with OpenAI models directly from your terminal.
 
+[OpenPaw](https://github.com/daxaur/openpaw) - An open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including git, Telegram, Discord, Obsidian, daily briefing, and more. No daemon, no cloud, MIT licensed.
+
 ## Local LLM Model Management
 
 [ollama](https://github.com/ollama/ollama) - Get up and running with large language models. Basically Docker for running OpenSource LLMs.

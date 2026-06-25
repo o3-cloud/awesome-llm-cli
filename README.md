@@ -20,6 +20,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 [sgpt](https://github.com/tbckr/sgpt) - A powerful command-line interface (CLI) tool designed for seamless interaction with OpenAI models directly from your terminal.
 
+[RunAPI CLI](https://github.com/runapi-ai/cli) - A JSON-first CLI for running AI image, video, music, audio, and LLM jobs from the terminal.
+
 ## Local LLM Model Management
 
 [ollama](https://github.com/ollama/ollama) - Get up and running with large language models. Basically Docker for running OpenSource LLMs.

@@ -34,6 +34,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 [jq](https://github.com/jqlang/jq) - jq is a lightweight and flexible command-line JSON processor. Works great parsing and manipulating JSON output from LLMs.
 
+[secretgenerator](https://github.com/rafaelperoco/secretgenerator) - Auditable CSPRNG credential generator with schema-v1 JSON so agents can tool-call instead of inventing weak secrets.
+
 ## Videos
 
 [Language models on the command-line w/ Simon Willison](https://www.youtube.com/watch?v=QUXQNi6jQ30) - The video discusses how language models (LLMs) can be used in the Unix command-line environment to solve complex problems by integrating different tools. It showcases the potential of LLMs in processing text directly as part of pipelines.

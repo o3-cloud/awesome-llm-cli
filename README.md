@@ -32,6 +32,8 @@ LLMs + CLI go together like peanute butter and jelly. This is a curated list of 
 
 ## Complementing CLI Utilities
 
+[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only. Complements terminal AI-agent workflows that need buyer-side x402 payment tooling.
+
 [jq](https://github.com/jqlang/jq) - jq is a lightweight and flexible command-line JSON processor. Works great parsing and manipulating JSON output from LLMs.
 
 ## Videos
